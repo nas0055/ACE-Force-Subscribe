@@ -11,7 +11,7 @@ class Config():
   DATABASE_URL = os.environ.get("DATABASE_URL", "postgres://mqabrbpk:Azt6duncFNbKQrz4mBU4czCOcvlrZzxy@floppy.db.elephantsql.com/mqabrbpk")
 
   # API & HASH (Use my.telegram.org)
-  APP_ID = os.environ.get("APP_ID", 6691216)
+  APP_ID = os.environ.get("APP_ID", "6691216")
   API_HASH = os.environ.get("API_HASH", "56170666b4adfa400f7ef9f18f1fe6f3")
 
   # Sudo users (Put your User ID)
