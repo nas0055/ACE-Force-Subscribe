@@ -2,10 +2,10 @@ import os
 
 class Config():
   # Bot Token (Use @BotFather)
-  BOT_TOKEN = os.environ.get("BOT_TOKEN", "5012113363:AAEcbSDNnYkt1kFsRh8PGEE7tU9Amz_KCcU")
+  BOT_TOKEN = os.environ.get("BOT_TOKEN", "6076322205:AAE6oPAceDbkFdPx4Pk5jEm_I48h2fv9dnw")
 
   # Bot Updates Channel Username (without @)
-  UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "MobileLegendsDiamondshop")
+  UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "rainbowmoviechannel")
 
   # PostgresSQL DB URL (Use ElephantSQL)
   DATABASE_URL = os.environ.get("DATABASE_URL", "postgres://mqabrbpk:Azt6duncFNbKQrz4mBU4czCOcvlrZzxy@floppy.db.elephantsql.com/mqabrbpk")
