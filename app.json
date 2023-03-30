@@ -1,5 +1,5 @@
 {
-    "name": "ACE - Force Subscribe Bot",
+    "name": "RMC - Force Subscribe Bot",
     "description": "Python based bot to Force Users to subscribe a channel.",
     "logo": "",
     "keywords": [
@@ -10,9 +10,9 @@
         "FSub",
         "ForceSubscribe"
     ],
-    "repository": "https://github.com/TheFlashSpeedster/ACE-Force-Subscribe",
-    "website": "https://t.me/ACE_ML",
-    "success_url": "https://t.me/ACE_ML",
+    "repository": "https://github.com/nas0055/ACE-Force-Subscribe",
+    "website": "https://t.me/rainbowmoviechannel",
+    "success_url": "https://t.me/rainbowmoviechannel",
     "env": {
         "API_HASH": {
             "description": "You API HASH from my.telegram.org",
